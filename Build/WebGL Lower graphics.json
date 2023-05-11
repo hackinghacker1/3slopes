@@ -1,0 +1,17 @@
+{
+"companyName": "NachoBro",
+"productName": "Slant",
+"productVersion": "0.1",
+"dataUrl": "WebGL Lower graphics.data.unityweb",
+"wasmCodeUrl": "WebGL Lower graphics.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL Lower graphics.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WebGL Lower graphics.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
